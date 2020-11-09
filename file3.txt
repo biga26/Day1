@@ -1,0 +1,3 @@
+file3.txt is created
+
+New things are learned
